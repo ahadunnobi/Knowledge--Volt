@@ -48,7 +48,7 @@ ul{
 #hero-text1{
     margin-top: 15PX;
     font-size: 72px;
-    color: #FFFFFF;
+    color: #d6c9c9;
 }
 #hero-text2{
     font-size: 72px;
@@ -56,7 +56,7 @@ ul{
     margin-bottom: 15px;
 }
 #hero-desciption{
-    color: #FFFFFF;
+    color: #d6cccc;
     margin: 20px;
     font-size: 20px;
 
@@ -80,4 +80,43 @@ ul{
 button :hover{
     color: rgb(0, 0, 0);
     border-bottom: 2px solid rgb(255, 255, 255);
+}
+.sec-container{
+    text-align: center;
+    margin-top: 30px;
+    padding: 0px 15px;
+    font-size: 48px;
+}
+.sec-container-description{
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-img{
+    padding: 15px;
+    width: 25px;
+    height: 25px;
+    border-radius: 60%;
+    background-color: rgba(249, 85, 85, 1);
+   
+}
+.card {
+    height: 180px;
+    width: 250px;
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    box-shadow: 1px 1px 1px rgb(141, 145, 143);
+}
+.card-heading{
+    margin: 15px;
+}
+.card-description{
+    color: #050303;
 }
