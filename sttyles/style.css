@@ -44,3 +44,34 @@ ul{
 .fontaw{
     margin-right: 10px;
 }
+#hero-text1{
+    margin-top: 15PX;
+    font-size: 72px;
+    color: #FFFFFF;
+}
+#hero-text2{
+    font-size: 72px;
+    color: #30B868; 
+    margin-bottom: 15px;
+}
+#hero-desciption{
+    color: #FFFFFF;
+    margin: 20px;
+    font-size: 20px;
+
+}
+#sbyv-btn{
+    background-color: rgba(255, 255, 255, 1);
+    color: #30B868;
+    padding: 10px 20px;
+    border-radius: 50px;
+    border: none;
+}
+#shiw-btn{
+    background-color: transparent;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 50px;
+    border: none;
+
+}
